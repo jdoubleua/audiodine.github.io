@@ -1,0 +1,21 @@
+.home-container{
+    background: #29AAE3;
+    color: #fff;
+}
+.about-container{
+    background: #fcff8d;
+    color: #000000;
+}
+.contact-container{
+    background: #00d5e3;
+    color: #fff;
+}
+.subscribe-container{
+    background: #149c63;
+    color: #fff;
+}
+
+.adLogo{
+    width: 100%;
+    height: 100%;
+}
